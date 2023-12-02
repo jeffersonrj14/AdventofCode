@@ -46,6 +46,7 @@ files
   y += parseInt(ydigits[0] + ydigits[ydigits.length - 1]);
 });
 
-console.log(x);
-console.log(y);
+console.log(x); // 54450
+console.log(y); // 54265
+
 

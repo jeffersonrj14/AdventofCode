@@ -1,3 +1,4 @@
+//It took me 4 hours to understand because I lack problem-solving skills, that's why I joined Advent of Code.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -56,9 +57,10 @@ int main() {
 
     fclose(file);
 
-    printf("%d\n", x);
-    printf("%d\n", y);
+    printf("%d\n", x); // 54450
+    printf("%d\n", y); // 54265
 
     return 0;
 }
+
 

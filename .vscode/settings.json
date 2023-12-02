@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.astro": "astro",
+        "stdio.h": "c"
+    }
+}
