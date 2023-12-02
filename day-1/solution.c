@@ -1,5 +1,5 @@
 // It took me 4 hours to understand because I lack problem-solving skills, that's why I joined Advent of Code.
-// Started late because I'm quite busy.
+// Started late because solving one question might take two days.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
