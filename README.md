@@ -1,4 +1,4 @@
-# ZeroToMastery Advent of Code 2023
+# Advent of Code 2023
 
 <details>
     <summary>
@@ -6,8 +6,8 @@
     </summary>
 <br />
         <a href="">File</a>
-            <pre>
-            </pre>
+            <!-- <pre>
+            </pre> -->
 </details>
 
 <details>
@@ -16,6 +16,8 @@
     </summary>
 <br />
         <a href="">File</a>
-            <pre>
-            </pre>
+            <!-- <pre>
+            </pre> -->
 </details>
+
+npm install -g ts-node typescript '@types/node'
