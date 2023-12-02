@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Advent of Code Solution",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffersonfed/jeffersonfed-vscode-dark-theme"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritch Johan Jefferson (http://github.com/jeffersonfed)",
+  "keywords": [
+    "Zero To Mastery",
+    "Advent of Code",
+    "Solution"
+  ],
+  "license": ""
+}
