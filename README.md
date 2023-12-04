@@ -4,7 +4,7 @@
 C was my first language when I learned how to code, and JavaScript still feels new inside my head. Will do my best to solve it in JavaScript.<br><br>
 My challenge:
 <ul>
-    <li>Try solving it using C and Javascript</li>
+    <li>Try solving it using C or Javascript</li>
     <li>Understand the question and search for a cheatsheet or resources if needed.</li>
     <li>Don't overthink a question.</li>
     <li>Never give up, and always have a good night's sleep.</li>
