@@ -6,14 +6,13 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeffersonfed/AdventofCode"
+    "url": "https://github.com/jeffersonrj14/AdventofCode"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ritch Johan Jefferson (http://github.com/jeffersonfed)",
+  "author": "Ritch Johan Jefferson (http://github.com/jeffersonrj14)",
   "keywords": [
-    "Zero To Mastery",
     "Advent of Code",
     "Solution"
   ],
